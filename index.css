@@ -1,0 +1,13 @@
+body{background: url(https://i.imgur.com/Nbi7bYI.jpg);
+background-repeat: repeat;}
+
+H1{font-family: 'Black Han Sans', sans-serif; text-align: center; text-align: center; color: rgb(0, 0, 0)
+}
+
+.home {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 18%;
+}
+
